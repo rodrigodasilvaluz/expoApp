@@ -1,2 +1,2 @@
 # myApp
-React-native project emulated in Android studio
+React-native project created with expo, emulator directly on Android or iPhone Mobile
